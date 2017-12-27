@@ -17,16 +17,16 @@ Pod::Spec.new do |s|
 
   s.name         = "MTProtocolManager"
   s.version      = "0.0.1"
-  s.summary      = "A short description of MTProtocolManager."
+  s.summary      = "My MTProtocolManager."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
- # s.description  = <<-DESC
-#		   This is MTProtocolManager
- #                  DESC
+  s.description  = <<-DESC
+		   This is My MTProtocolManager
+                   DESC
 
   s.homepage     = "https://github.com/mantou811/MTProtocolManager"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
